@@ -8,6 +8,10 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+// IN ORDER FOR THIS CODE TO PROPERLY RUN YOU MUST CHANGE YOUR CONSOLE BUFFER SIZE. 
+// TO DO THIS GO TO WINDOWS -> PREFERENCES -> RUN/DEBUG -> CONSOLE -> CHANGE CONSOLE BUFFER SIZE TO 1000000
+
+
 public class RedditReader {
 
 	public RedditReader(String inputFile) {
